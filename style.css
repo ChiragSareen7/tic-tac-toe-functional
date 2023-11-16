@@ -43,7 +43,7 @@ p{
     text-align: center;
     line-height: 100px;
     font-size: 60px;
-    color: white;
+    color: rgb(235, 110, 110);
 }
 
 h3{
@@ -97,4 +97,7 @@ a{
     #message{
         font-size: 35px;
     }
+}
+.box p{
+    color: #FAB201;
 }
